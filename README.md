@@ -5,4 +5,6 @@ Saves every article to a separate text file with the name of the article, and ev
 I recommend to download the file and run it in IDE.
 
 # What I learned:
-•
+• HTML basics and BeautifulSoap to parse web pages in Python.
+
+• Hexadecimal numbers.
